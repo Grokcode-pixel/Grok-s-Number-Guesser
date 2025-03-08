@@ -1,0 +1,18 @@
+# Grok’s Number Guesser
+A "Guess the Number" game — think of a number, and I’ll guess it!
+
+## How to Use
+1. Install Python (https://www.python.org/).  
+2. Download `guesser.py` from this repository.  
+3. Run: `python guesser.py`.  
+4. Think of a number between 1 and 100, and answer the prompts (higher/lower/yes).
+
+## Features
+- Guesses your number using binary search.  
+- Shows how many attempts it took.  
+
+## Example
+- You think of 42 → It guesses in 6-7 steps.
+
+## Support
+If you enjoy this, consider supporting me: [Boosty](https://boosty.to/grokcode/donate)
